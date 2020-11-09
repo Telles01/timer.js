@@ -1,0 +1,14 @@
+.container{
+  text-align: center;
+  background: url('img/images.jpg');
+
+}
+
+button{
+    background: red;
+    font-size: 32px;
+    padding: 8px 20px;
+    cursor: pointer;
+    border: 0;
+    
+}
